@@ -20,6 +20,9 @@
     "importHelpers": true,
     "esModuleInterop": true,
     "isolatedModules": true,
-    "skipLibCheck": true
-  }
+    "skipLibCheck": true,
+    "outDir": "dist"
+  },
+  "include": ["src"]
+
 }
