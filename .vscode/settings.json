@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "eslint.validate": [
+    "typescript",
+    "typescriptreact"
+  ],
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "./yarn/*/**": true,
+    ".vscode/pnpify/*/**": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
