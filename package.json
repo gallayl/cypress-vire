@@ -1,0 +1,13 @@
+{
+  "name": "cypress-vire",
+  "version": "0.1.0",
+  "description": "VIsual REgression for Cypress",
+  "main": "dist/index.js",
+  "repository": "https://github.com/gallayl/cypress-vire",
+  "author": "Lajos <gallayl@users.noreply.github.com>",
+  "license": "GPL3",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
